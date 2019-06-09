@@ -4,7 +4,7 @@
 ## LadyBees
 [![Build Status](https://travis-ci.com/ladybees/spellingBee.svg?branch=master)](https://travis-ci.com/ladybees/spellingBeet)
 
-### Author: H'Liana, Lorin, Nikki, Xochil
+### Author: Xochil
 
 ### Links and Resources
 * [repo](https://github.com/ladybees/spellingBee/blob/master/README.md)
